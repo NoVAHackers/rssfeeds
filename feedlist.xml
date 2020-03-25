@@ -1,8 +1,10 @@
 <opml version="2.0">
-  <body>
-    <outline text="Subscriptions" title="Subscriptions">
-      <outline xmlUrl='https://malicious.link/post/index.xml' />
-      <outline xmlUrl='https://carnal0wnage.attackresearch.com/feeds/posts/default?alt=rss' />
+	<body>
+		<outline text="Subscriptions" title="Subscriptions">
+			<outline xmlUrl='https://malicious.link/post/index.xml' />
+			<outline xmlUrl='https://carnal0wnage.attackresearch.com/feeds/posts/default?alt=rss' />
+			<outline xmlUrl='https://carnal0wnage.attackresearch.com/feeds/posts/default?alt=rss' />
+			<outline xmlUrl='https://obscuresecurity.blogspot.com/feeds/posts/default' />
 		</outline>
 	</body>
 </opml>
